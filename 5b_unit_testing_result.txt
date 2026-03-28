@@ -1,0 +1,7 @@
+theia@theiadocker-virajmathur5:/home/project/fin
+al_project$ python3 -m unittest test_emotion_detection.py > 5b_unit_testing_result.txt
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.680s
+
+OK
